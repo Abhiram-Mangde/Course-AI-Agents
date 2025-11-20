@@ -115,7 +115,7 @@ def search_weather(city):
 
 **Step 3 — LLM receives tool results and continues reasoning**
 
-[Full working Code]()
+[Full working Code](https://github.com/Abhiram-Mangde/Course-AI-Agents/blob/main/Day-2/Python%20Scripts/AgentToolCode.py)
 
 ---
 ## What Is MCP (Model Context Protocol)?
@@ -255,6 +255,6 @@ Agent continues reasoning:
 “The current price of stock is Rs.1000.”
 ```
 
-[Complete Code for MCP Server]()
+[Complete Code for MCP Server](https://github.com/Abhiram-Mangde/Course-AI-Agents/blob/main/Day-2/Python%20Scripts/MCPMiniServer.py)
 
 ---
