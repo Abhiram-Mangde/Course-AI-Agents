@@ -282,4 +282,4 @@ Below is a more complete example of an agent with:
 - context engineering
 - dynamic prompts
 
-[Code]()
+[Code](https://github.com/Abhiram-Mangde/Course-AI-Agents/blob/main/Day-3/Python%20Scripts/FullStateAgent.py)

@@ -147,7 +147,7 @@ This is NOT a real agent yet because:
 
 *But it's a good mental model for what comes next.*
 
-[Check a more relavant example which is much closer to a real agent]()
+[Check a more relavant example which is much closer to a real agent](https://github.com/Abhiram-Mangde/Course-AI-Agents/blob/main/Day-1/Sample%20Project%20Scripts/AgentWithReasoningAndTools.py)
 
 ---
 ## Multi-Agent Systems Deep Conceptual Explanation
@@ -218,4 +218,4 @@ final_doc = writer_agent(research_output)
 print(final_doc)
 ```
 
-[Check a more relavant example which is much closer to a real agent]()
+[Check a more relavant example which is much closer to a real agent](https://github.com/Abhiram-Mangde/Course-AI-Agents/blob/main/Day-1/Sample%20Project%20Scripts/MultiAgent.py)
